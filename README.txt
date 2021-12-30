@@ -13,5 +13,6 @@ Date:
 Language:
   C
 Note:
-  This program (project) reflects the knowledge and skills gained from UWO's 'Software Tools and Systems Programming' course. 
-  
+  This program (project) reflects the knowledge and skills gained from UWO's 'Software Tools and Systems Programming' course:
+    Dynamic Allocation of Memory
+    Linked List
